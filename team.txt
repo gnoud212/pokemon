@@ -1,0 +1,178 @@
+=== [gen7ou] Untitled 2 ===
+
+Magearna @ Fightinium Z  
+Ability: Soul-Heart  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shift Gear  
+- Focus Blast  
+- Thunderbolt  
+- Ice Beam  
+
+Greninja-Ash @ Choice Specs  
+Ability: Battle Bond  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Dark Pulse  
+- Water Shuriken  
+- Spikes  
+
+Mew @ Leftovers  
+Ability: Synchronize  
+EVs: 248 HP / 148 Def / 48 SpD / 64 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Psychic  
+- Stealth Rock  
+- Will-O-Wisp  
+- Roost  
+
+Latios @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Trick  
+- Defog  
+- Draco Meteor  
+- Psyshock  
+
+Tangrowth @ Assault Vest  
+Ability: Regenerator  
+EVs: 248 HP / 8 Def / 252 SpD  
+Sassy Nature  
+- Giga Drain  
+- Earthquake  
+- Hidden Power [Fire]  
+- Knock Off  
+
+Zygarde @ Choice Band  
+Ability: Aura Break  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Thousand Arrows  
+- Outrage  
+- Extreme Speed  
+- Toxic  
+
+
+=== [gen7ou] Untitled 1 ===
+
+Heracross @ Heracronite  
+Ability: Moxie  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Pin Missile  
+- Rock Blast  
+- Close Combat  
+
+Magearna @ Assault Vest  
+Ability: Soul-Heart  
+EVs: 200 HP / 56 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk / 29 Spe  
+- Volt Switch  
+- Hidden Power [Fire]  
+- Flash Cannon  
+- Fleur Cannon  
+
+Latias @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Psyshock  
+- Trick  
+- Healing Wish  
+
+Landorus-Therian @ Flyinium Z  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Earthquake  
+- Smack Down  
+- Fly  
+
+Greninja @ Choice Specs  
+Ability: Battle Bond  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Dark Pulse  
+- Spikes  
+- Water Shuriken  
+
+Tangrowth @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 248 HP / 216 Def / 40 SpD / 4 Spe  
+Relaxed Nature  
+- Sleep Powder  
+- Knock Off  
+- Hidden Power [Ice]  
+- Giga Drain  
+
+
+=== [gen7ou] Untitled 3 ===
+
+Smeargle @ Focus Sash  
+Ability: Own Tempo  
+EVs: 252 HP / 4 Def / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Sticky Web  
+- Magic Coat  
+- Spore  
+- Stealth Rock  
+
+Pinsir-Mega @ Pinsirite  
+Ability: Aerilate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Earthquake  
+- Quick Attack  
+- Return  
+
+Bisharp @ Dread Plate  
+Ability: Defiant  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Knock Off  
+- Sucker Punch  
+- Iron Head  
+- Swords Dance  
+
+Celesteela @ Flyinium Z  
+Ability: Beast Boost  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Air Slash  
+- Autotomize  
+- Fire Blast  
+- Giga Drain  
+
+Mimikyu-Busted @ Life Orb  
+Ability: Disguise  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Shadow Claw  
+- Shadow Sneak  
+- Swords Dance  
+- Play Rough  
+
+Zygarde @ Sitrus Berry  
+Ability: Aura Break  
+EVs: 240 HP / 176 Atk / 24 Def / 68 Spe  
+Adamant Nature  
+- Coil  
+- Thousand Arrows  
+- Dragon Dance  
+- Extreme Speed  
+
+
