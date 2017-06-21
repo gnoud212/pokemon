@@ -1,0 +1,295 @@
+=== [gen7ou] Untitled 2 ===
+
+Magearna @ Fightinium Z  
+Ability: Soul-Heart  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shift Gear  
+- Focus Blast  
+- Thunderbolt  
+- Ice Beam  
+
+Greninja-Ash @ Choice Specs  
+Ability: Battle Bond  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Dark Pulse  
+- Water Shuriken  
+- Spikes  
+
+Mew @ Leftovers  
+Ability: Synchronize  
+EVs: 248 HP / 148 Def / 48 SpD / 64 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Psychic  
+- Stealth Rock  
+- Will-O-Wisp  
+- Roost  
+
+Latios @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Trick  
+- Defog  
+- Draco Meteor  
+- Psyshock  
+
+Tangrowth @ Assault Vest  
+Ability: Regenerator  
+EVs: 248 HP / 8 Def / 252 SpD  
+Sassy Nature  
+- Giga Drain  
+- Earthquake  
+- Hidden Power [Fire]  
+- Knock Off  
+
+Zygarde @ Choice Band  
+Ability: Aura Break  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Thousand Arrows  
+- Outrage  
+- Extreme Speed  
+- Toxic  
+
+
+=== [gen7ou] Untitled 1 ===
+
+Heracross @ Heracronite  
+Ability: Moxie  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Pin Missile  
+- Rock Blast  
+- Close Combat  
+
+Magearna @ Assault Vest  
+Ability: Soul-Heart  
+EVs: 200 HP / 56 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk / 29 Spe  
+- Volt Switch  
+- Hidden Power [Fire]  
+- Flash Cannon  
+- Fleur Cannon  
+
+Latias @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Psyshock  
+- Trick  
+- Healing Wish  
+
+Landorus-Therian @ Flyinium Z  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Earthquake  
+- Smack Down  
+- Fly  
+
+Greninja @ Choice Specs  
+Ability: Battle Bond  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Dark Pulse  
+- Spikes  
+- Water Shuriken  
+
+Tangrowth @ Rocky Helmet  
+Ability: Regenerator  
+EVs: 248 HP / 216 Def / 40 SpD / 4 Spe  
+Relaxed Nature  
+- Sleep Powder  
+- Knock Off  
+- Hidden Power [Ice]  
+- Giga Drain  
+
+
+=== [gen7ou] Untitled 3 ===
+
+Latios @ Choice Specs  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Psychic  
+- Thunderbolt  
+- Trick  
+
+Magnezone @ Assault Vest  
+Ability: Magnet Pull  
+EVs: 64 HP / 252 SpA / 84 SpD / 108 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Flash Cannon  
+- Hidden Power [Fire]  
+- Thunderbolt  
+
+Landorus-Therian @ Earth Plate  
+Ability: Intimidate  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Stealth Rock  
+- Earthquake  
+- Knock Off  
+- Smack Down  
+
+Zygarde @ Dragonium Z  
+Ability: Aura Break  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Dragon Dance  
+- Extreme Speed  
+- Thousand Arrows  
+- Outrage  
+
+Keldeo @ Choice Scarf  
+Ability: Justified  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Hydro Pump  
+- Secret Sword  
+- Stone Edge  
+- Scald  
+
+Tangrowth @ Assault Vest  
+Ability: Regenerator  
+EVs: 224 HP / 60 SpA / 216 SpD / 8 Spe  
+Sassy Nature  
+- Leaf Storm  
+- Knock Off  
+- Earthquake  
+- Hidden Power [Ice]  
+
+
+=== [gen7ou] Untitled 4 ===
+
+Reuniclus @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 184 Def / 28 SpD / 44 Spe  
+Bold Nature  
+IVs: 0 Atk  
+- Calm Mind  
+- Recover  
+- Psyshock  
+- Shadow Ball  
+
+Tyranitar @ Choice Band  
+Ability: Sand Stream  
+EVs: 80 HP / 252 Atk / 176 Spe  
+Adamant Nature  
+- Pursuit  
+- Crunch  
+- Stone Edge  
+- Superpower  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 12 Def / 32 SpA / 216 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Magma Storm  
+- Substitute  
+- Toxic  
+- Earth Power  
+
+Tangrowth @ Assault Vest  
+Ability: Regenerator  
+EVs: 248 HP / 8 Def / 252 SpD  
+Sassy Nature  
+- Giga Drain  
+- Knock Off  
+- Hidden Power [Ice]  
+- Earthquake  
+
+Keldeo @ Choice Scarf  
+Ability: Justified  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 1 Atk  
+- hiddenpowerelectricstoneedg  
+- Hydro Pump  
+- Scald  
+- Secret Sword  
+
+Landorus-Therian @ Rockium Z  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Stone Edge  
+- Swords Dance  
+- Stealth Rock  
+
+
+=== [gen7ou] Untitled 5 ===
+
+Manectric @ Manectite  
+Ability: Lightning Rod  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunderbolt  
+- Volt Switch  
+- Overheat  
+- Hidden Power [Ice]  
+
+Greninja @ Expert Belt  
+Ability: Protean  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Dark Pulse  
+- Toxic Spikes  
+- Spikes  
+
+Landorus-Therian @ Flyinium Z  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Fly  
+- Smack Down  
+- Stealth Rock  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 252 HP / 4 Def / 252 SpD  
+Sassy Nature  
+- Heavy Slam  
+- Flamethrower  
+- Leech Seed  
+- Protect  
+
+Keldeo @ Choice Scarf  
+Ability: Justified  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Hydro Pump  
+- Scald  
+- Secret Sword  
+- Stone Edge  
+
+Zygarde @ Choice Band  
+Ability: Aura Break  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Thousand Arrows  
+- Outrage  
+- Extreme Speed  
+- Iron Tail  
